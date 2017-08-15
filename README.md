@@ -48,13 +48,7 @@ Examples
 The most basic message:
 
 ```js
-dora('Hello world!')
-```
-
-A message signaling an error:
-
-```js
-dora('error', {title: 'Attention', text: 'Something went wrong!'})
+Vue.use(Vueforce)
 ```
 
 [View more examples]()
